@@ -1,0 +1,15 @@
+D:\Computer_Science\Prof_Alam_Project\MouseHeatMap\MouseHeatMap\bin\Debug\MouseHeatMap.exe.config
+D:\Computer_Science\Prof_Alam_Project\MouseHeatMap\MouseHeatMap\bin\Debug\MouseHeatMap.exe
+D:\Computer_Science\Prof_Alam_Project\MouseHeatMap\MouseHeatMap\bin\Debug\MouseHeatMap.pdb
+D:\Computer_Science\Prof_Alam_Project\MouseHeatMap\MouseHeatMap\obj\Debug\MouseHeatMap.csprojAssemblyReference.cache
+D:\Computer_Science\Prof_Alam_Project\MouseHeatMap\MouseHeatMap\obj\Debug\MainWindow.g.cs
+D:\Computer_Science\Prof_Alam_Project\MouseHeatMap\MouseHeatMap\obj\Debug\App.g.cs
+D:\Computer_Science\Prof_Alam_Project\MouseHeatMap\MouseHeatMap\obj\Debug\MouseHeatMap_MarkupCompile.cache
+D:\Computer_Science\Prof_Alam_Project\MouseHeatMap\MouseHeatMap\obj\Debug\MouseHeatMap_MarkupCompile.lref
+D:\Computer_Science\Prof_Alam_Project\MouseHeatMap\MouseHeatMap\obj\Debug\MainWindow.baml
+D:\Computer_Science\Prof_Alam_Project\MouseHeatMap\MouseHeatMap\obj\Debug\MouseHeatMap.g.resources
+D:\Computer_Science\Prof_Alam_Project\MouseHeatMap\MouseHeatMap\obj\Debug\MouseHeatMap.Properties.Resources.resources
+D:\Computer_Science\Prof_Alam_Project\MouseHeatMap\MouseHeatMap\obj\Debug\MouseHeatMap.csproj.GenerateResource.cache
+D:\Computer_Science\Prof_Alam_Project\MouseHeatMap\MouseHeatMap\obj\Debug\MouseHeatMap.csproj.CoreCompileInputs.cache
+D:\Computer_Science\Prof_Alam_Project\MouseHeatMap\MouseHeatMap\obj\Debug\MouseHeatMap.exe
+D:\Computer_Science\Prof_Alam_Project\MouseHeatMap\MouseHeatMap\obj\Debug\MouseHeatMap.pdb

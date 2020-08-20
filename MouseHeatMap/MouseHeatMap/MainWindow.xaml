@@ -1,0 +1,14 @@
+﻿<Window x:Class="MouseHeatMap.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MouseHeatMap"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="1080" Width="1920">
+    <Canvas x:Name="myCanvas">
+        <Button x:Name="StartButton" Content="Start Button" Canvas.Left="1000" Canvas.Top="743" Click="StartButton_Click"></Button>
+        <Button x:Name="StopButton" Content="Stop Button" Canvas.Left="1115" Canvas.Top="743" Click="StopButton_Click" IsEnabled="False"></Button>
+    </Canvas>
+
+</Window>
